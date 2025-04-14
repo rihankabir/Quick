@@ -1,0 +1,188 @@
+*body{
+	margin: 0;
+	padding: 0;
+}
+.container{
+	width: 90%;
+	margin: 0 auto;
+		overflow: hidden;
+			
+}
+.logo{
+	 height: 60px;
+  line-height: 60px;
+	width: 10%;
+
+	float: left;
+	 font-weight: bold;
+  font-size: 24px;
+  color: black;
+}
+.hello{
+	font-size: 25px;
+	color: blue;
+	font-weight: bolder;
+}
+header{
+	padding: 10px 0;
+	border-bottom: 3px solid #eee;
+	box-shadow:2px solid #eee
+	}
+
+
+.list{
+	width: 45%;
+
+	float: right;
+	list-style: none;
+	margin-top: 3px;
+
+}
+.list ul{
+	float: right;
+
+}
+.list ul li{
+	list-style: none;	
+	float: left;
+}
+.list ul li a{
+	font-family: sans-serif;
+	display: inline-block;
+	text-decoration: none;
+  color: #222;
+  
+  margin: 0 20px;
+}
+.list ul li:last-child a{
+	margin-right: 0;
+}
+.container2{
+	width: 60%;
+	margin: 0 auto;
+}
+.b_content{
+	text-align: center;
+}
+.hero-img img{
+	width: 70%;
+	margin: 0 auto;
+	}
+	.b_content h1{
+font-family: sans-serif;
+font-size: 45px;
+color: #0F2656;
+font-weight: 700;
+	}
+	.b_content h2{
+		font-size: 45px;
+		margin: 10px 0;
+		font-weight: 700;
+
+		color: #008AFF;
+
+	}
+.b_content P{
+		font-size: 16PX;
+	font-weight: 400;
+	line-height: 23px;
+	word-spacing: 1px;
+}
+.hero{
+	padding: 60px 0;
+}
+.s_content{
+	overflow: hidden;
+
+}
+.s_left{
+	width: 40%;
+
+	float: left;
+	text-align: right;
+	font-family: sans-serif;
+	padding: 0 35px 0 35px;
+}
+.s_right{
+	width: 50%;
+	float: right;
+	padding: 0 5px 0px 10px;
+}
+.s_right h1{
+	font-size: 42px;
+	font-weight: 700;
+	line-height: 50px;
+	margin: 0;
+}
+.s_left h2{
+		font-size:40px;
+	font-weight: 700;
+	color: #f15767;
+	margin: 0 0 10px;
+}
+.s_left p{
+line-height:25px;
+word-spacing: 1px;
+font-size:16px;
+font-weight:400;
+color: ;
+margin: 0;
+}
+.main{
+	padding: 60px 0;
+}
+.features {
+  padding: 40px 20px;
+  overflow: auto;
+}
+.feature {
+  width: 26%;
+  float: left;
+  margin-right: 25px;
+  text-align: center;
+  padding: 20px;
+  background: ;
+  margin-bottom: 20px;
+  border-radius: 5px;
+  margin-left: 22px;
+
+}
+.feature:nth-child(3) {
+  
+}
+.dove{
+	background: #ffeef0;;
+}
+.cow{
+	background: #e6f7f4;;
+}
+.givi{
+	background: #fff7e6;;
+}
+
+.feature img {
+  width: 100%;
+  margin-bottom: 10px;
+}
+.feature h3 {
+  font-size: 16px;
+  color: #1a1a1a;
+  margin: 10px 0;
+}
+
+.feature p {
+  font-size: 13px;
+  color: #666;
+}
+.footer {
+  clear: both;
+  text-align: center;
+  background: #007bff;
+  color: white;
+  padding: 20px 0;
+  font-size: 14px;
+}
+
+
+
+
